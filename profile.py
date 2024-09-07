@@ -16,6 +16,7 @@ I’m excited to share a bit about my experiences and achievements.
 """)
 st.subheader('My Journey in Science🧪')
 st.write("One of the highlights of my academic career so far has been participating in the Thailand Young Physicists' Tournament (TYPT). Competing in this prestigious contest allowed me to delve deeply into the world of physics, collaborate with brilliant minds, and develop my problem-solving skills. The experience was both intellectually stimulating and incredibly rewarding.")
+st.image("https://www.ppk.ac.th/wp-content/uploads/2023/02/332369186_570813881427964_3612284257819123220_n-768x1024.jpg", use_column_width=True)
 st.subheader("Television Adventure🎥")
 st.write("In addition to my academic and scientific interests, I had the exciting opportunity to be a contestant on the Thai game show Genwit. This experience was a fun and dynamic way to test my quick thinking and adaptability in a lively, competitive environment. It was an incredible experience that added a unique dimension to my personal growth.")
 st.subheader("Lifelong Learning and Safety⚕️")
