@@ -20,6 +20,7 @@ st.subheader("Television Adventure🎥")
 st.write("In addition to my academic and scientific interests, I had the exciting opportunity to be a contestant on the Thai game show Genwit. This experience was a fun and dynamic way to test my quick thinking and adaptability in a lively, competitive environment. It was an incredible experience that added a unique dimension to my personal growth.")
 st.subheader("Lifelong Learning and Safety⚕️")
 st.write("In addition to my scientific pursuits, I’m also committed to being prepared for emergencies. I have completed a CPR and First Aid course, which has equipped me with essential life-saving skills. This certification is important to me because I believe in the value of being prepared to help others in critical situations.")
+st.image("https://images.contentstack.io/v3/assets/blt8a393bb3b76c0ede/blt98f4923943e018f8/656017f7867c0b37e1388a44/staying-alive-a-history-of-cpr-header.jpg", use_column_width=True)
 
 
 
