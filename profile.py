@@ -41,18 +41,15 @@ with st.expander("👨‍💻 Programming Languages"):
     st.image("https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white", use_column_width=True)
 # Frontend Development
 with st.expander("🪟 Frontend Development"):
-    st.image("https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white", use_column_width=True)
     st.image("https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white", use_column_width=True)
 
 # Backend Development
 with st.expander("☠️ Backend Development"):
-    st.image("https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white", use_column_width=True)
     st.image("https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white", use_column_width=True)
     st.image("https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white", use_column_width=True)
 
 # AI & ML
 with st.expander("🤖 AI & ML"):
-    st.image("https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white", use_column_width=True)
     st.image("https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white", use_column_width=True)
     st.image("https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black", use_column_width=True)
     st.image("https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white", use_column_width=True)
@@ -61,17 +58,16 @@ with st.expander("🤖 AI & ML"):
 
 # Dev Tools
 with st.expander("🐥 Dev Tools"):
-    st.image("https://skillicons.dev/icons?i=git,github,gitlab,linux,ubuntu,neovim,raspberrypi,arduino", use_column_width=True)
+    st.image("https://skillicons.dev/icons?i=git,github,raspberrypi,arduino", use_column_width=True)
 
 # My Skills
 st.subheader("🐥 My Skills")
-st.image("https://skillicons.dev/icons?i=python,linux,cpp,js,java,php,anaconda", use_column_width=True)
+st.image("https://skillicons.dev/icons?i=python,cpp,php", use_column_width=True)
 
 # Future Plans
 st.subheader("🔮 What in Future")
 st.write("""
-- [ ] Study Computer Science (2022-2026)
-- [ ] Working in ~~software development~~ AI&ML roles
+- [ ] Study Computer Science (university degree)
 """)
 
 # Contact Information
