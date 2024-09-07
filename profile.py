@@ -39,9 +39,6 @@ with st.expander("👨‍💻 Programming Languages"):
     st.image("https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54", use_column_width=True)
     st.image("https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white", use_column_width=True)
     st.image("https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white", use_column_width=True)
-    st.image("https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E", use_column_width=True)
-    st.image("https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white", use_column_width=True)
-
 # Frontend Development
 with st.expander("🪟 Frontend Development"):
     st.image("https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white", use_column_width=True)
@@ -80,14 +77,8 @@ st.write("""
 # Contact Information
 st.subheader("📩 Connect with Me")
 st.write("""
-- 📩 jeerasakananta@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/jeerasak-ananta-a1b4231a2/)
-- 📖 [Medium](https://medium.com/@jeerasakananta_1762/about)
+- 📩 siwat696@gmail.com
 """)
-
-# GitHub Stats
-st.subheader("GitHub Stats")
-st.image("https://github-readme-stats.vercel.app/api?username=JeerasakAnanta", use_column_width=True)
 
 # Footer
 st.write("Thank you krub for reading :) 💯💪")
