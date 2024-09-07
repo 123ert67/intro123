@@ -16,6 +16,8 @@ I’m excited to share a bit about my experiences and achievements.
 """)
 st.subheader('My Journey in Science')
 st.write("One of the highlights of my academic career so far has been participating in the Thailand Young Physicists' Tournament (TYPT). Competing in this prestigious contest allowed me to delve deeply into the world of physics, collaborate with brilliant minds, and develop my problem-solving skills. The experience was both intellectually stimulating and incredibly rewarding.")
+st.subheader("Television Adventure")
+st.write("In addition to my academic and scientific interests, I had the exciting opportunity to be a contestant on the Thai game show Genwit. This experience was a fun and dynamic way to test my quick thinking and adaptability in a lively, competitive environment. It was an incredible experience that added a unique dimension to my personal growth.")
 st.subheader("Lifelong Learning and Safety")
 st.write("In addition to my scientific pursuits, I’m also committed to being prepared for emergencies. I have completed a CPR and First Aid course, which has equipped me with essential life-saving skills. This certification is important to me because I believe in the value of being prepared to help others in critical situations.")
 
@@ -25,9 +27,7 @@ st.write("In addition to my scientific pursuits, I’m also committed to being p
 st.subheader("🧑‍💻 What I'm Doing Now")
 st.write("""
 - 💻 Studying Computer Science
-- 👨‍💻 For fun [Leet Code](https://tryhackme.com/)
-- 🚩 CTFs player [TryHackMe](https://leetcode.com/_JeerasaK_/)
-- 🐧 Linux lover
+- 🎮 Learning arduino & raspberry pi
 - 🤖 Learning anything with Machine Learning
 """)
 
